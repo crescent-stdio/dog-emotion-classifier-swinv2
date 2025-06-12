@@ -68,7 +68,7 @@ python evaluate_swinv2.py
 ---
 
 ## 5. Visualisation with Grad-CAM
-![results of gradcam](./results_gradcam/gradcam_swinv2_250612-004615_random_state_7.png)
+<img src="./results_gradcam/gradcam_swinv2_250612-004615_random_state_7.png" width="50%" />
 
 ```
 python visualize_gradcam.py \
